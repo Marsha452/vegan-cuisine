@@ -1,0 +1,1 @@
+A vibrant, user-friendly website showcasing a collection of delicious vegan recipes. Designed with clean aesthetics and intuitive navigation, it helps users easily explore plant-based dishes while providing a seamless browsing experience.
