@@ -1,0 +1,23 @@
+{
+  "name": "vegan-cuisine",
+  "version": "1.0.0",
+  "description": "A vibrant, user-friendly website showcasing a collection of delicious vegan recipes. Designed with clean aesthetics and intuitive navigation, it helps users easily explore plant-based dishes while providing a seamless browsing experience.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marsha452/vegan-cuisine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marsha452/vegan-cuisine/issues"
+  },
+  "homepage": "https://github.com/Marsha452/vegan-cuisine#readme",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
